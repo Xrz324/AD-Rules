@@ -17,12 +17,19 @@ application:
 
   # 规则源配置，remote为远程规则，local为本地规则，支持多个规则源
   rule:
-
-    # 仅支持 http/https，不限定响应内容格式
     remote:
-#      - name: 'example rule' #规则名称
-#        path: 'https://example.org/rule.txt' #规则地址
-#      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
+      - name: 'OISD'
+        path: 'https://big.oisd.nl'
+      - name: 'AD-Rules-DNS'
+        path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
+      - name: 'AD-Rules'
+        path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt'
+      - name: 'Anti-AD'
+        path: 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'
+      - name: 'EasyPrivacy'
+        path: 'https://easylist.to/easylist/easyprivacy.txt'
+      - name: 'Easylist'
+        path: 'https://easylist.to/easylist/easylist.txt'
 
     #本地规则请将文件放置到项目路径rule目录中
     local:
@@ -33,7 +40,7 @@ application:
       [ADFS Adblock List]
       ! Title: ${name}
       ! Last Modified: ${date}
-      ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+      ! Homepage: https://github.com/xrz324/AD-Rules
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt: #输出文件名
