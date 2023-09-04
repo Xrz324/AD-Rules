@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-04 08:50:41
+! Last Modified: 2023-09-04 16:14:44
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
@@ -100,25 +100,18 @@
 @@||cdn-msp*.18comic.*^
 ## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
 ||bc.geocities.
-||analytics-api.dvdfab.
-||aff*.kolektiva.net^
 ||collector-*.px-client.net^
-||geotargetly-api-*.com^
 ||stats-*.p2pnow.ru^
-||pixel.archive.
-||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||stats2.*.fdnames.com^
+||servo-report.dvdfab.
 ||tracker.twenga.
 ||fb_servpub-a.akamaihd.net^
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-directtrack.*.js
-## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
-||util-*.simply-hentai.com^
-||get-me-wow.
-||centent.streamp1ay.
-||cas.*.criteo.com^
-||cintent.streanplay.
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||geotargetly-api-*.com^
+||pixel.archive.
+||log-*.previewnetworks.com^
 ## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||solutions.|pages.indigovision.com^
@@ -127,8 +120,15 @@ directtrack.*.js
 ||matt.mercadolibre.
 ||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
-||servo-report.dvdfab.
 ||stats.zone-telechargement.
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+directtrack.*.js
+## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
+||util-*.simply-hentai.com^
+||get-me-wow.
+||centent.streamp1ay.
+||cas.*.criteo.com^
+||cintent.streanplay.
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
@@ -154,11 +154,13 @@ rgmechanicsgames.com*VPN.exe
 ||analytics-rollout-*.amazonaws.com^
 ||appanalysis*.banggood.com^
 ||adi*.cnool.net^
+||datacollect*.abtasty.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 ||browser-intake-*-datadoghq.com^
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||ax.*.ifeng.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
@@ -168,6 +170,7 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
 ||api-access.pangolin-sdk-toutiao*.com^
 ||collect-v*.51.la^
+||datacollector-*.dt.hicloud.com^
 ||ce-global-track-*.amazonaws.com^
 ||d*.ruiwen.com^
 ||adsfilebssdlbig.*.kugou.com^
@@ -218,7 +221,6 @@ rgmechanicsgames.com*VPN.exe
 ||device-metrics-*.amazon.com^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||maas-*.phunware.com^
-||datacollect*.abtasty.com^
 ||hstats*.hepsiburada.com^
 ||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
@@ -227,7 +229,6 @@ rgmechanicsgames.com*VPN.exe
 ||host*.polaroid.com^
 ||events*.cre.ma^
 ||geoloc*.geostats.ovh^
-||datacollector-*.dt.dbankcloud.cn^
 ||js*.abolezi.com^
 ||f-log-*.grammarly.io^
 ||imp-*.jampp.com^
@@ -236,7 +237,6 @@ rgmechanicsgames.com*VPN.exe
 ||mobileanalytics.*.amazonaws.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
-||datacollector-*.dt.hicloud.com^
 ||logger-*.dailymotion.com^
 ||device-metrics-us*.amazon.com^
 ||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
