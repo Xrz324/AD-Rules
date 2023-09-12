@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-12 00:14:21
+! Last Modified: 2023-09-12 08:48:17
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
@@ -156,13 +156,11 @@ rgmechanicsgames.com*VPN.exe
 ||analytics-rollout-*.amazonaws.com^
 ||appanalysis*.banggood.com^
 ||adi*.cnool.net^
-||datacollect*.abtasty.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 ||browser-intake-*-datadoghq.com^
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||ax.*.ifeng.com^
-||datacollector-*.dt.dbankcloud.cn^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
@@ -172,7 +170,6 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
 ||api-access.pangolin-sdk-toutiao*.com^
 ||collect-v*.51.la^
-||datacollector-*.dt.hicloud.com^
 ||ce-global-track-*.amazonaws.com^
 ||d*.ruiwen.com^
 ||adsfilebssdlbig.*.kugou.com^
@@ -223,6 +220,7 @@ rgmechanicsgames.com*VPN.exe
 ||device-metrics-*.amazon.com^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||maas-*.phunware.com^
+||datacollect*.abtasty.com^
 ||hstats*.hepsiburada.com^
 ||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
@@ -231,6 +229,7 @@ rgmechanicsgames.com*VPN.exe
 ||host*.polaroid.com^
 ||events*.cre.ma^
 ||geoloc*.geostats.ovh^
+||datacollector-*.dt.dbankcloud.cn^
 ||js*.abolezi.com^
 ||f-log-*.grammarly.io^
 ||imp-*.jampp.com^
@@ -239,6 +238,7 @@ rgmechanicsgames.com*VPN.exe
 ||mobileanalytics.*.amazonaws.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
+||datacollector-*.dt.hicloud.com^
 ||logger-*.dailymotion.com^
 ||device-metrics-us*.amazon.com^
 ||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
@@ -268,52 +268,50 @@ rgmechanicsgames.com*VPN.exe
 ||log*.byteoversea.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||pixel*.production-public.tubi.io^
+||tracking.*.miui.com^
 ||t*.zcvh.net^
-||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
+||pijama.*.elasticbeanstalk.com^
+||uc*.atobo.com^
 ||tracking*.euroads.fi^
 ||sdk.fra-*.braze.eu^
+||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
-||w*.*skwai.com^
+||trk*.vidible.tv^
+||sock*-goguardian.pusher.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
 ||p26.gejulm*.com^
+||tracking-*.trnox.com^
 ||st-*.dynamicyield.com^
 ||v*-ad.video.yximgs.com^
+||pixelapi-*.cs.mysamba.tv^
 ||static*.365inews.com^
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||track.*.roku.com^
+||same*.stockstar.com^
+||tupian888.*.bcebos.com^
+||thezbpe5*.xyz^
 ||pagead*.google.com^
+||report*.appmetrica.webvisor.com^
 ||telemetry*.transcend.io^
+||tnc16-*.byteoversea.com^
+||rtlog*.tiktokv.com^
 ||opnked*.xyz^
 ||pixel-*.rubiconproject.com^
 ||piano_log.kingsoft.jp^
 ||ssp*.rtb.beeline.ru^
+||stat*.1internet.tv^
+||sam*.baby-kingdom.com^
 ||stats*.videonow.ru^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
 ||spryptvqguhpwt^
-||pxl-*.ozone.ru^
-||tracking.*.miui.com^
-||pijama.*.elasticbeanstalk.com^
-||uc*.atobo.com^
-||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
-||trk*.vidible.tv^
-||sock*-goguardian.pusher.com^
-||tracking-*.trnox.com^
-||pixelapi-*.cs.mysamba.tv^
-||same*.stockstar.com^
-||tupian888.*.bcebos.com^
-||thezbpe5*.xyz^
-||report*.appmetrica.webvisor.com^
-||tnc16-*.byteoversea.com^
-||rtlog*.tiktokv.com^
-||stat*.1internet.tv^
-||sam*.baby-kingdom.com^
 ||union*.365inews.com^
+||pxl-*.ozone.ru^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
@@ -326,9 +324,11 @@ rgmechanicsgames.com*VPN.exe
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
+||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
 ||zazgbqg*.xyz^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
+||w*.*skwai.com^
 ||xlog*-*.tiktokv.com^
 ||zbc6hye*.xyz^
 ||www.xxmh*.com^
