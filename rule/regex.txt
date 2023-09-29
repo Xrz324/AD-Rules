@@ -1,7 +1,12 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-29 00:14:21
+! Last Modified: 2023-09-29 08:50:44
 ! Homepage: https://github.com/xrz324/AD-Rules
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||ads.*.kugou.com^
+||ads*-normal*.zijieapi.com^
+||adsfilebssdlbig.*.kugou.com^
+||ads*.zijieapi.com^
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -94,11 +99,6 @@
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||ads.*.kugou.com^
-||ads*-normal*.zijieapi.com^
-||adsfilebssdlbig.*.kugou.com^
-||ads*.zijieapi.com^
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||liveweb*.msstatic.com^
 ||log*-misc-lq.amemv.com^
 ||log*-normal-lq.toutiaoapi.com^
@@ -111,6 +111,8 @@
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic.*^
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+Banner468x60
 ## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
 ||bc.geocities.
 ||solutions.|pages.indigovision.com^
@@ -134,7 +136,8 @@
 ||pixel.archive.
 ||log-*.previewnetworks.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-Banner468x60
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+directtrack.*.js
 ## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
 ||158.247.208.
 ||util-*.simply-hentai.com^
@@ -146,15 +149,12 @@ Banner468x60
 ||23.109.87.
 ||cintent.streanplay.
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-directtrack.*.js
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-rgmechanicsgames.com*VPN.exe
 outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-|piwik.
+rgmechanicsgames.com*VPN.exe
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||ads*.dfiles.eu^
+|piwik.
 ||a*.chajiaotong.com^
 ||adservice.google.
 ||8*.tianya.cn^
@@ -181,7 +181,6 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||113.17.188.*.js
 ||163487*.qmgmw.com^
 ||analytics*.prezly.com^
-||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||acookie.*.gif?
 ||218.26.217.*.html
@@ -195,7 +194,6 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||cs*.mp3bars.com^
 ||clog*.yuanfudao.com^
 ||grs.dbankcloud.
-||gtmdev.jabra.
 ||collector.hamsterix.
 ||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
 ||fanpingbi*.gaokao.com^
@@ -213,6 +211,7 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||cnt.tubeon.
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||events*.cre.ma^
+||ax.*.ifeng.com^
 ||geoloc*.geostats.ovh^
 ||datacollector-*.dt.dbankcloud.cn^
 ||f-log-*.grammarly.io^
@@ -232,7 +231,6 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||bdlm*.hc360.com^
 ||collector.hamsterix.*^
 ||collect-elb-*.amazonaws.com^
-||gscounters.*.gigya.com^
 ||collector-*.px-cloud.net^
 ||c*hit.zerkalo.io^
 ||collector-*.tvsquared.com^
@@ -241,13 +239,11 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||fpb*.51edu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||counter*-yadro*-ru.unblocked.lol^
-||gtlpa*.com^
 ||dm*.yxlady.com^
 ||batchlogging*-eu.truecaller.com^
 ||eum*.instana.io^
 ||gcw*.2liang.cn^
 ||fapnado.*.php|
-||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
 ||beacons*.gvt3.com^
 ||fpb1.chinacar.
 ||flurry.agentportal.*.yahoodns.net^
@@ -262,13 +258,12 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
+||gtmdev.jabra.
 ||kmmudmaxfg._tcp.meet.aem.hb.tt.omtrdc.net^
 ||mapi-log.qoo*.jp^
 ||log*.vietnamplus.vn^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
-||rgfftupf.
 ||host*.carl-ras.dk^
-||report.*.qq.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||px*.mediahills.ru^
 ||mail._domainkey.hb.tt.omtrdc.net^
@@ -291,7 +286,6 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||pixel-*.rubiconproject.com^
 ||piano_log.kingsoft.jp^
 ||js*.abolezi.com^
-||qpb*.sohu.com^
 ||pxl-*.ozone.ru^
 ||imp-*.jampp.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -305,13 +299,15 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
 ||mon*-platform-*.tiktokv.com^
+||gscounters.*.gigya.com^
 ||invenio_tracking_*.sgnapps.com^
 ||mcs-va-*.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
+||gtlpa*.com^
 ||metric*.rediff.com^
 ||log-collector.shopee.
-||report*.appmetrica.webvisor.com^
+||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
 ||impservice*.yodao.com^
 ||js.*2023*.xyz^
 ||logservice-*.platform.dbankcloud.cn^
@@ -327,12 +323,14 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||tracking*.euroads.fi^
 ||tracking.olx.
 ||sdk.fra-*.braze.eu^
+||rgfftupf.
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||sd.yhzzzs*.com^
 ||xlog*-*.tiktokv.com^
 ||track.zalando.
+||report.*.qq.com^
 ||seller-log-collector.shopee.
 ||st-*.dynamicyield.com^
 ||static*.365inews.com^
@@ -355,6 +353,7 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||stats*.videonow.ru^
 ||wa.gmx.
 ||zbc6hy*.live^
+||qpb*.sohu.com^
 ||s*.skencituer.com^
 ||spryptvqguhpwt^
 ||track.tiara.
@@ -374,6 +373,7 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||tupian888.*.bcebos.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||report*.appmetrica.webvisor.com^
 ||tnc16-*.byteoversea.com^
 ||stat.tiara.
 ||rtlog*.tiktokv.com^
