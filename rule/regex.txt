@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-08 08:54:21
+! Last Modified: 2023-10-08 16:12:59
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||ads.*.kugou.com^
@@ -279,11 +279,9 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
 ||rgfftupf.
 ||rum*.a.trbcdn.net^
-||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||report.*.qq.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
-||seller-log-collector.shopee.
 ||px*.mediahills.ru^
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||p26.gejulm*.com^
@@ -339,9 +337,11 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
 ||tracking*.euroads.fi^
 ||tracking.olx.
+||sensorsdata*.read.duokan.com^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||xlog*-*.tiktokv.com^
 ||track.zalando.
+||seller-log-collector.shopee.
 ||st-*.dynamicyield.com^
 ||static*.365inews.com^
 ||t.delfi.
