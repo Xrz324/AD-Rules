@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-19 08:51:12
+! Last Modified: 2023-10-19 16:14:34
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||ads.*.kugou.com^
@@ -107,10 +107,11 @@
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||v*-ad.video.yximgs.com^
 ||ulog*.*^
-||w*.*skwai.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic.*^
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||w*.*skwai.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 Banner468x60
 ## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
@@ -149,8 +150,9 @@ Banner468x60
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-rgmechanicsgames.com*VPN.exe
 outlook.live.com._6tqjFb_HmyQup_NPe6dhC
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+rgmechanicsgames.com*VPN.exe
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||ads*.dfiles.eu^
 |piwik.
@@ -250,7 +252,6 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||eum*.instana.io^
 ||gcw*.2liang.cn^
 ||fapnado.*.php|
-||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
 ||beacons*.gvt3.com^
 ||fpb1.chinacar.
 ||flurry.agentportal.*.yahoodns.net^
@@ -312,6 +313,7 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||pixelapi-*.cs.mysamba.tv^
 ||metric*.rediff.com^
 ||log-collector.shopee.
+||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
 ||impservice*.yodao.com^
 ||js.*2023*.xyz^
 ||logservice-*.platform.dbankcloud.cn^
