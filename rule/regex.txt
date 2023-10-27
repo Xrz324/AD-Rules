@@ -1,12 +1,16 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-27 00:14:13
+! Last Modified: 2023-10-27 08:50:13
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||ads.*.kugou.com^
 ||ads*-normal*.zijieapi.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||ads*.zijieapi.com^
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||liveweb*.msstatic.com^
+||log*-misc-lq.amemv.com^
+||log*-normal-lq.toutiaoapi.com^
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -100,10 +104,6 @@
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||liveweb*.msstatic.com^
-||log*-misc-lq.amemv.com^
-||log*-normal-lq.toutiaoapi.com^
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||pangolin-sdk-toutiao*.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 @@||adobeid-*.services.adobe.com^
@@ -137,6 +137,9 @@ Banner468x60
 ||pixel.archive.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+directtrack.*.js
 ## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
 ||158.247.208.
 ||util-*.simply-hentai.com^
@@ -148,9 +151,6 @@ Banner468x60
 ||allsportsflix.
 ||23.109.87.
 ||cintent.streanplay.
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-directtrack.*.js
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
@@ -192,7 +192,6 @@ rgmechanicsgames.com*VPN.exe
 ||analytics*.clickdimensions.com^
 ||122.225.103.*.htm
 ||analytics.*.sky.com^
-||asd8900.oss-*.aliyuncs.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||cnt.winporn.
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
@@ -221,6 +220,7 @@ rgmechanicsgames.com*VPN.exe
 ||f-log-*.grammarly.io^
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
+||asd8900.oss-*.aliyuncs.com^
 ||cnt.yeptube.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -279,7 +279,6 @@ rgmechanicsgames.com*VPN.exe
 ||log*-applog-*.tiktokv.com^
 ||hostingcloud.*.wasm^
 ||lively-collect-elb-*.amazonaws.com^
-||prebid-*.rubiconproject.com^
 ||lt*.tritondigital.com^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||maas-*.phunware.com^
@@ -339,9 +338,9 @@ rgmechanicsgames.com*VPN.exe
 ||st-*.dynamicyield.com^
 ||static*.365inews.com^
 ||t.delfi.
+||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||ubacollect-*.cloud.dbankcloud.cn^
-||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||track.*.roku.com^
 ||widgets.*.webengage.com^
@@ -366,7 +365,6 @@ rgmechanicsgames.com*VPN.exe
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||same*.stockstar.com^
 ||tupian888.*.bcebos.com^
-||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||report*.appmetrica.webvisor.com^
 ||tnc16-*.byteoversea.com^
@@ -378,15 +376,17 @@ rgmechanicsgames.com*VPN.exe
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-||zbc6hye*.xyz^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zabdybod*.club^
+||yhsfsdv*.com^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
-||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||zazgbqg*.xyz^
+||zbc6hye*.xyz^
+||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
+||ysdm*.ys137.com.cn^
