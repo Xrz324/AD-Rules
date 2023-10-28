@@ -1,12 +1,7 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-28 08:49:02
+! Last Modified: 2023-10-28 16:12:50
 ! Homepage: https://github.com/xrz324/AD-Rules
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||ads.*.kugou.com^
-||ads*-normal*.zijieapi.com^
-||adsfilebssdlbig.*.kugou.com^
-||ads*.zijieapi.com^
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -99,6 +94,11 @@
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||ads.*.kugou.com^
+||ads*-normal*.zijieapi.com^
+||adsfilebssdlbig.*.kugou.com^
+||ads*.zijieapi.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 @@||adobeid-*.services.adobe.com^
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
@@ -106,6 +106,10 @@
 ||pangolin-sdk-toutiao*.com^
 ||log*-misc-lq.amemv.com^
 ||log*-normal-lq.toutiaoapi.com^
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||v*-ad.video.yximgs.com^
+||ulog*.*^
+||w*.*skwai.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 @@||cdn-msp*.18comic.*^
 Banner468x60
@@ -132,13 +136,6 @@ Banner468x60
 ||pixel.archive.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||ulog*.*^
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||v*-ad.video.yximgs.com^
-||w*.*skwai.com^
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
 ||158.247.208.
 ||util-*.simply-hentai.com^
@@ -150,6 +147,8 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||allsportsflix.
 ||23.109.87.
 ||cintent.streanplay.
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -173,16 +172,20 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||bjkedv*.xyz^
 ||collector-*.tvsquared.com^
 ||d*.xinshipu.com^
+||fpb*.51edu.com^
 ||ads.livetv*.me^
 ||ac*.pingguolv.com^
+||gtlpa*.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||analytics.streamfab.
 ||adi*.cnool.net^
 ||ads*.depositfiles.org^
 ||120.27.*.html
+||gcw*.2liang.cn^
 ||browser-intake-*-datadoghq.com^
 ||ac*.faxingchina.com^
+||fpb1.chinacar.
 ||113.17.188.*.js
 ||163487*.qmgmw.com^
 ||analytics*.prezly.com^
@@ -192,6 +195,7 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||acookie.*.gif?
 ||218.26.217.*.html
 ||analytics*.clickdimensions.com^
+||fxhpaoxqyajvmdg.
 ||122.225.103.*.htm
 ||asd8900.oss-*.aliyuncs.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
@@ -234,22 +238,17 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||sock*-goguardian.pusher.com^
 ||ya*.dwstatic.com^
 ||mcs-va-*.tiktokv.com^
-||fpb*.51edu.com^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
-||gtlpa*.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||same*.stockstar.com^
 ||tupian888.*.bcebos.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||gcw*.2liang.cn^
 ||impservice*.yodao.com^
 ||js.*2023*.xyz^
 ||stat.tiara.
-||fpb1.chinacar.
 ||metrics.svc.co[Adblock Plus 2.1]
 ||sam*.baby-kingdom.com^
-||fxhpaoxqyajvmdg.
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
