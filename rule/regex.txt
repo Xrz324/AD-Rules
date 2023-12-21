@@ -1,19 +1,67 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-12-21 08:53:04
+! Last Modified: 2023-12-21 16:14:36
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||geotargetly-api-*.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
 ||adservice.google.
+## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
+||get-me-wow.
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||ads.*.kugou.com^
 ||ads*-normal*.zijieapi.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||ads*.zijieapi.com^
+## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||stats-*.p2pnow.ru^
+||pixel.archive.
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||analytics.ticketmaster.
+||servo-report.dvdfab.
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||stats.zone-telechargement.
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||firebaselogging-*.googleapis.com^
+## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
+||158.247.208.
+||23.109.82.
+||142.91.159.
+||cas.*.criteo.com^
+||allsportsflix.
+||23.109.87.
+## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||cintent.streanplay.
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||liveweb*.msstatic.com^
+||pangolin-sdk-toutiao*.com^
+||log*-misc-lq.amemv.com^
+||log*-normal-lq.toutiaoapi.com^
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
+## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+||v*-ad.video.yximgs.com^
+||ulog*.*^
+||w*.*skwai.com^
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+Banner468x60
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -106,53 +154,6 @@
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
-## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||analytics-api.dvdfab.
-||aff*.kolektiva.net^
-||stats-*.p2pnow.ru^
-||pixel.archive.
-||stats2.*.fdnames.com^
-||analytics.ticketmaster.
-||servo-report.dvdfab.
-||tracker.twenga.
-||fb_servpub-a.akamaihd.net^
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||firebaselogging-*.googleapis.com^
-## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||stats.zone-telechargement.
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||liveweb*.msstatic.com^
-||log*-misc-lq.amemv.com^
-||log*-normal-lq.toutiaoapi.com^
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||pangolin-sdk-toutiao*.com^
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
-## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
-||v*-ad.video.yximgs.com^
-||ulog*.*^
-||w*.*skwai.com^
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-Banner468x60
-## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||get-me-wow.
-||centent.streamp1ay.
-||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
-||23.109.87.
-||cintent.streanplay.
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 directtrack.*.js
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
@@ -163,6 +164,7 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 rgmechanicsgames.com*VPN.exe
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||8*.tianya.cn^
+||a*.smlog.co.kr^
 ||113.17.188.*.js
 ||163487*.qmgmw.com^
 |piwik.
@@ -170,13 +172,13 @@ rgmechanicsgames.com*VPN.exe
 ||121.204.246.*.gif
 ||218.26.217.*.html
 ||122.225.103.*.htm
+||a*.chajiaotong.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||cnt.winporn.
 ||cs*.mp3bars.com^
 ||clog*.yuanfudao.com^
 ||collector.hamsterix.
 ||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
-||a*.smlog.co.kr^
 ||analytics-*-nfl.yinzcam.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
@@ -188,7 +190,9 @@ rgmechanicsgames.com*VPN.exe
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
 ||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
 ||adi*.cnool.net^
+||datacollect*.abtasty.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 ||cnt.proporn.
@@ -197,20 +201,24 @@ rgmechanicsgames.com*VPN.exe
 ||cnt.tubeon.
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||ax.*.ifeng.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||analytics*.clickdimensions.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||cnt.yeptube.
 ||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
 ||bd*-ys.km.com^
 ||ads*.dfiles.eu^
 ||cnt.hd21.
 ||collect-v*.51.la^
+||datacollector-*.dt.hicloud.com^
 ||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
+||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||cnt.nuvid.
-||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
 ||collector.hamsterix.*^
 ||ac*.786ip.com^
@@ -219,9 +227,11 @@ rgmechanicsgames.com*VPN.exe
 ||collector-*.px-cloud.net^
 ||c*hit.zerkalo.io^
 ||collector-*.tvsquared.com^
+||d*.xinshipu.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
+||dm*.yxlady.com^
 ||analytics.streamfab.
 ||auth-*.hismarttv.com^
 ||adcounter*.uptolike.ru^
@@ -258,10 +268,8 @@ rgmechanicsgames.com*VPN.exe
 ||hostingcloud.*.wasm^
 ||lively-collect-elb-*.amazonaws.com^
 ||lt*.tritondigital.com^
-||device-metrics-*.amazon.com^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||maas-*.phunware.com^
-||datacollect*.abtasty.com^
 ||hstats*.hepsiburada.com^
 ||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
@@ -271,28 +279,25 @@ rgmechanicsgames.com*VPN.exe
 ||host*.polaroid.com^
 ||events*.cre.ma^
 ||geoloc*.geostats.ovh^
-||datacollector-*.dt.dbankcloud.cn^
 ||js*.abolezi.com^
 ||f-log-*.grammarly.io^
+||mon*-*.tiktokv.us^
 ||imp-*.jampp.com^
 ||ky891.oss-*.aliyuncs.com^
-||dm*.ppzuowen.com^
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
-||datacollector-*.dt.hicloud.com^
 ||logger-*.dailymotion.com^
-||d*.ruiwen.com^
-||device-metrics-us*.amazon.com^
+||mon*-platform-*.tiktokv.com^
 ||gscounters.*.gigya.com^
 ||invenio_tracking_*.sgnapps.com^
 ||mcs-va-*.tiktokv.com^
-||d*.xinshipu.com^
 ||events-api*.outfit7.com^
 ||fpb*.51edu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
+||mon-*.tiktokv.com^
 ||gtlpa*.com^
-||dm*.yxlady.com^
 ||metric*.rediff.com^
 ||eum*.instana.io^
 ||log-collector.shopee.
@@ -331,6 +336,7 @@ rgmechanicsgames.com*VPN.exe
 ||t.delfi.
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||sgtm.fashionunited.
 ||track.*.roku.com^
 ||telemetry*.transcend.io^
@@ -343,18 +349,15 @@ rgmechanicsgames.com*VPN.exe
 ||s*.skencituer.com^
 ||spryptvqguhpwt^
 ||track.tiara.
-||mon*-*.tiktokv.us^
 ||pxl-*.ozone.ru^
-||mobileanalytics.*.amazonaws.com^
 ||sax*.sina.
 ||tracking.*.miui.com^
 ||pijama.*.elasticbeanstalk.com^
+||uc*.atobo.com^
 ||pixel*.adswizz.com
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||trk*.vidible.tv^
-||mon*-platform-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
-||mon-*.tiktokv.com^
 ||tracking-*.trnox.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||same*.stockstar.com^
@@ -366,31 +369,29 @@ rgmechanicsgames.com*VPN.exe
 ||rtlog*.tiktokv.com^
 ||stat*.1internet.tv^
 ||sam*.baby-kingdom.com^
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+||widgets.*.webengage.com^
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
+||zazgiyoh*.world^
 ||zcchyr*.xyz^
-||uc*.atobo.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||zabdybod*.club^
+||yhsfsdv*.com^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
+||zazgbqg*.xyz^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||xlog*-*.tiktokv.com^
-||ya*.dwstatic.com^
-||ubacollect-*.cloud.dbankcloud.cn^
-||ysdm*.ys137.com.cn^
-||widgets.*.webengage.com^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||zazgiyoh*.world^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||zabdybod*.club^
-||yhsfsdv*.com^
-||zazgbqg*.xyz^
 ||zbc6hye*.xyz^
 ||www.xxmh*.com^
+||ya*.dwstatic.com^
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||zahrvfbd*.xyz^
 ||wa.gmx.
 ||zbc6hy*.live^
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
+||ysdm*.ys137.com.cn^
