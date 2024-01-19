@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-01-19 00:14:50
+! Last Modified: 2024-01-19 08:55:15
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
 ||bc.geocities.
@@ -9,6 +9,21 @@
 ||adservice.google.
 ## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
 ||get-me-wow.
+## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
+||smetriccom^
+||stats-*.p2pnow.ru^
+||hn-ping*.hashnode.com^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||servo-report.dvdfab.
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||smcom^
+||pixel.archive.
+||log-*.previewnetworks.com^
+||analytics.ticketmaster.
 ## 👇This Part Merge from: Anti-AD (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -103,47 +118,32 @@
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
+## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
+||xxlef||xyhojp.lacoste.com^
+||emam^
+||smetrics.suncorpbank.com.au||smetrics.viabcp.com^
+## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||stats.zone-telechargement.
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+Banner468x60
 ## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
 ||158.247.208.
+||util-*.simply-hentai.com^
 ||23.109.82.
+||centent.streamp1ay.
 ||142.91.159.
 ||cas.*.criteo.com^
 ||allsportsflix.
 ||23.109.87.
-## 👇This Part Merge from: Easylist (https://easylist.to/easylist/easylist.txt)
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
 ||cintent.streanplay.
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
-## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
-||smetriccom^
-||stats-*.p2pnow.ru^
-||hn-ping*.hashnode.com^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||servo-report.dvdfab.
-||tracker.twenga.
-||fb_servpub-a.akamaihd.net^
-||analytics-api.dvdfab.
-||aff*.kolektiva.net^
-||smcom^
-||pixel.archive.
-||log-*.previewnetworks.com^
-||analytics.ticketmaster.
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-Banner468x60
-## 👇This Part Merge from: EasyPrivacy (https://easylist.to/easylist/easyprivacy.txt)
-||xxlef||xyhojp.lacoste.com^
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||emam^
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||stats.zone-telechargement.
-||smetrics.suncorpbank.com.au||smetrics.viabcp.com^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 directtrack.*.js
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
@@ -163,14 +163,12 @@ rgmechanicsgames.com*VPN.exe
 ||analytics-*-nfl.yinzcam.com^
 ||analytics*.carambo.la^
 ||api*.amplitude.com^
-||app-analytics-*.snapchat.com^
 ||ad*.on.cc^
 ||ads*.dfiles.ru^
 ||ads.livetv*.me^
 ||ac*.pingguolv.com^
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
-||appanalysis*.banggood.com^
 ||analytics.streamfab.
 ||adi*.cnool.net^
 ||adcounter*.uptolike.ru^
@@ -198,8 +196,10 @@ rgmechanicsgames.com*VPN.exe
 ||collector.hamsterix.
 ||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
 ||dn*.ixinwei.com^
+||app-analytics-*.snapchat.com^
 ||counter*.stat.ovh^
 ||bjkedv*.xyz^
+||appanalysis*.banggood.com^
 ||device-metrics-*.amazon.com^
 ||datacollect*.abtasty.com^
 ||cnt.proporn.
@@ -359,7 +359,6 @@ rgmechanicsgames.com*VPN.exe
 ||rtlog*.tiktokv.com^
 ||stat*.1internet.tv^
 ||sam*.baby-kingdom.com^
-||union*.365inews.com^
 ||tw*.netcore.co.in^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||widgets.*.webengage.com^
@@ -383,5 +382,6 @@ rgmechanicsgames.com*VPN.exe
 ||zahrvfbd*.xyz^
 ||wa.gmx.
 ||zbc6hy*.live^
+||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||ysdm*.ys137.com.cn^
