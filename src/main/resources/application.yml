@@ -24,8 +24,6 @@ application:
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
       - name: 'AD-Rules'
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt'
-      - name: 'Anti-AD'
-        path: 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'
       - name: 'EasyPrivacy'
         path: 'https://easylist.to/easylist/easyprivacy.txt'
       - name: 'Easylist'
