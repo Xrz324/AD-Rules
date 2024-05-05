@@ -18,16 +18,20 @@ application:
   # 规则源配置，remote为远程规则，local为本地规则，支持多个规则源
   rule:
     remote:
-      - name: 'OISD'
-        path: 'https://big.oisd.nl'
       - name: 'AD-Rules-DNS'
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
       - name: 'AD-Rules'
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt'
+      - name: 'AdGuard-DNS'
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt'
       - name: 'EasyPrivacy'
         path: 'https://easylist.to/easylist/easyprivacy.txt'
-      - name: 'Easylist'
+      - name: 'Anti-AD'
+        path: 'https://anti-ad.net/adguard.txt'
+      - name: 'EasyList'
         path: 'https://easylist.to/easylist/easylist.txt'
+      - name: 'AdGuard-Base'
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
 
     #本地规则请将文件放置到项目路径rule目录中
     local:
