@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-13 09:07:15
+! Last Modified: 2024-11-13 16:18:42
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: AdGuard-DNS (https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 ||www.fuze-hill*.xyz^
@@ -194,6 +194,7 @@
 ||get-me-wow.
 ## 👇This Part Merge from: AdGuard-DNS (https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 ||158.247.208.
+||cpng.lol.^
 ||23.109.82.
 ||allsportsflix.
 ||23.109.87.
@@ -255,7 +256,6 @@
 ||tag-based.s3.*.amazonaws.com^
 ||iptracker-lb-*.amazonaws.com^
 ||tracking.*.miui.com^
-||cpng.lol.^
 ||alishop*.ru^
 ||cnt.hd21.
 ||pixel*.adswizz.com
@@ -443,12 +443,16 @@ analytics-*.aasaam.com
 ## 👇This Part Merge from: AdGuard-Base (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
 ||fapnado.*.php|
 Banner468x60
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+%2Fopen.aspx%3F
+%2Frw%2Fbeacon_
+%2Fevent.gif%3F
 ## 👇This Part Merge from: AdGuard-Base (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
 rgmechanicsgames.com*VPN.exe
-## 👇This Part Merge from: AdGuard-Base (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||ads*.opensubtitles.org^
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 @@||adobeid-*.services.adobe.com^
-@@||cdn*.porn300.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||cs*.mp3bars.com^
 ||clog*.yuanfudao.com^
@@ -481,18 +485,9 @@ rgmechanicsgames.com*VPN.exe
 ||collector*.ex.co^
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-%2Fopen.aspx%3F
-%2Frw%2Fbeacon_
-%2Fevent.gif%3F
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ## 👇This Part Merge from: AdGuard-Base (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||142.91.159.
-||cintent.streanplay.
+||ads*.opensubtitles.org^
+@@||cdn*.porn300.com^
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -516,6 +511,13 @@ rgmechanicsgames.com*VPN.exe
 ||hbbtv.*.de^
 ||mads*z.com^
 ||gtlpa*.com^
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+directtrack.*.js
+## 👇This Part Merge from: AdGuard-Base (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||142.91.159.
+||cintent.streanplay.
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||pangolin-sdk-toutiao*.com^
 ||stat.*.v-56.com^
@@ -535,8 +537,6 @@ rgmechanicsgames.com*VPN.exe
 ||p26.gejulm*.com^
 ||n*adserv.com^
 ||sads*z.com^
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-directtrack.*.js
 ## 👇This Part Merge from: AD-Rules-DNS (https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ||widgets.*.webengage.com^
 ||zazgiyoh*.world^
@@ -559,19 +559,19 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+||df.infra.sz.shopee.
 ||acookie.*.gif?
 ||analytics.ticketmaster.
-## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-||df.infra.sz.shopee.
-||invenio_tracking_*.sgnapps.com^
 ||df.infra.shopee.
+## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
+||invenio_tracking_*.sgnapps.com^
+||matt.mercadolibre.
+||piano_log.kingsoft.jp^
+||molpmh.xyz|
 ||fb_servpub-a.akamaihd.net^
 ## 👇This Part Merge from: AD-Rules (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 ||stats.zone-annuaire.
-||matt.mercadolibre.
-||piano_log.kingsoft.jp^
 ||sta.zone-telechargement.
 ||tccd.douglas.
 ||sta.wawacity.
 ||sta.extreme-down.
-||molpmh.xyz|
