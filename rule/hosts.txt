@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-13 16:18:42
+! Last Modified: 2024-11-14 00:18:09
 ! Homepage: https://github.com/xrz324/AD-Rules
 ## 👇This Part Merge from: AWAvenue (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 127.0.0.1 123.56.23.22
