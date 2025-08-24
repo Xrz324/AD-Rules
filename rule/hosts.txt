@@ -1,4 +1,4 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-08-24 00:17:25
+! Last Modified: 2025-08-24 09:24:20
 ! Homepage: https://github.com/xrz324/AD-Rules
